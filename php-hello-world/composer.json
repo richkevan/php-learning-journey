@@ -1,0 +1,14 @@
+{
+    "name": "richkevan/hellophp",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Rich Kevan",
+            "email": "rskevan@me.com"
+        }
+    ],
+    "scripts": {
+        "dev": "php -f main.php"
+    },
+    "require": {}
+}
